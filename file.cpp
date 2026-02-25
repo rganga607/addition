@@ -1,4 +1,4 @@
 #inlude<iostream>
 using namespac std;
 
-add(a,b)
+add(a,b,c,d)
