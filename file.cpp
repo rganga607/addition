@@ -1,7 +1,7 @@
 #inlude<iostream>
 using namespac std;
 
-add(a,b,c,d)
+add(a,b,d)
 
 sub (a,b)
 
